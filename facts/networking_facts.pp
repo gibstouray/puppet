@@ -1,0 +1,1 @@
+notice($facts['networking']['ip'])
