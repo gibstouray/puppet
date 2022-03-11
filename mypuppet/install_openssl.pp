@@ -1,3 +1,0 @@
-package { 'openssl':
-   ensure => installed,
-}
